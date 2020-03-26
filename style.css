@@ -1,0 +1,71 @@
+html, body {
+text-align: center;
+}
+p {text-align: left;}
+
+#about{
+		text-align: center;
+}
+#like{
+
+	text-align: center;
+
+}
+#spa{
+	text-align: center;
+}
+
+#qrcoder{
+	text-align: center;
+}
+
+#playlist{
+
+	text-align: center;
+
+}
+#contact{
+	text-align: center;
+	
+}
+
+body {
+	margin: 0;
+	padding: 0;
+	background: #697281;
+	text-align: left;
+	font-family: "Trebuchet MS";
+	font-size: 15px;
+	color: #DCDCDC;
+	background-color:#ffced9;
+}
+*
+{
+  margin: 0 auto 0 auto;
+ text-align:left;}
+#menu
+{
+background:#DCDCDC;
+background-repeat:no-repeat;
+height:55px;
+width:860px;
+line-height:55px;
+padding-left:20px;
+padding-right:20px;
+text-align: center;
+}
+
+#menu a
+{
+font-size:16px;
+font-weight:bold;
+color:black;
+margin-left:28px;
+margin-right:28px;
+text-align: center;
+}
+
+#menu a:hover
+{
+color:#C7E0C2;
+}
